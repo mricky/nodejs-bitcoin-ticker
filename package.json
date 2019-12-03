@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-bitcoin-ticker",
+  "version": "1.0.0",
+  "description": "Try Api Bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mricky/nodejs-bitcoin-ticker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mricky/nodejs-bitcoin-ticker/issues"
+  },
+  "homepage": "https://github.com/mricky/nodejs-bitcoin-ticker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
